@@ -4,7 +4,8 @@
   "description": "Simple Critics Webpage made for the Web Developer Bootcamp 2022 of Colt Steele",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Juan D Urdaneta F",
   "license": "ISC",
